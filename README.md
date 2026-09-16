@@ -41,7 +41,3 @@ imbalanced.
 A lightweight Streamlit interface allows users to enter the required
 features and obtain a prediction from the trained model.
 
-## Disclaimer
-
-This project is intended for educational purposes only and is not a
-medical diagnostic system or a substitute for professional medical advice.
